@@ -1,0 +1,6 @@
+{
+  "name": "AI Admission Counsellor Script Generator",
+  "description": "Generate professional, persuasive calling scripts and WhatsApp follow-up messages tailored to child age, program interest, and parent queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
